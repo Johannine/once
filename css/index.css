@@ -339,11 +339,11 @@ canvas,
   animation: scroll-down-effect 1.5s infinite;
 }
 .avatar_img {
-  -webkit-animation: avatar_turn_around 5s linear infinite;
-  -moz-animation: avatar_turn_around 5s linear infinite;
-  -o-animation: avatar_turn_around 5s linear infinite;
-  -ms-animation: avatar_turn_around 5s linear infinite;
-  animation: avatar_turn_around 5s linear infinite;
+  -webkit-animation: avatar_turn_around 8s linear infinite;
+  -moz-animation: avatar_turn_around 8s linear infinite;
+  -o-animation: avatar_turn_around 8s linear infinite;
+  -ms-animation: avatar_turn_around 8s linear infinite;
+  animation: avatar_turn_around 8s linear infinite;
 }
 .reward-main {
   -webkit-animation: donate_effcet 0.3s 0.1s ease both;
