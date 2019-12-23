@@ -4,23 +4,48 @@
   
     
     <entry>
-      <title>测试</title>
-      <link href="/2019/12/14/%E6%B5%8B%E8%AF%95/"/>
-      <url>/2019/12/14/%E6%B5%8B%E8%AF%95/</url>
+      <title>2020年倒计时！！！</title>
+      <link href="/2019/12/23/%E5%80%92%E8%AE%A1%E6%97%B6/"/>
+      <url>/2019/12/23/%E5%80%92%E8%AE%A1%E6%97%B6/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><style> .gn_box{     border: none;     border-radius: 15px; } .gn_box {     padding: 10px 14px;     margin: 10px;     margin-bottom: 20px;     text-align: center;     background-color: #fff; } #t_d{     color: #982585;     font-size: 18px; } #t_h{     color: #8f79c1;     font-size: 18px; } #t_m{     color: #65b4b5;     font-size: 18px; } #t_s{     color: #83caa3;     font-size: 18px; } </style> <div class="gn_box">     <h1><font color="#E80017">2</font><font color="#D1002E">0</font><font color="#BA0045">2</font><font color="#A3005C">0</font><font color="#8C0073">年</font><font color="#75008A">-</font><font color="#5E00A1">新</font><font color="#4700B8">年</font><font color="#3000CF">倒</font><font color="#1900E6">计</font><font color="#0200FD">时</font>     </h1>     <center>         <div id="CountMsg" class="HotDate">             <span id="t_d"> 天</span>             <span id="t_h"> 时</span>             <span id="t_m"> 分</span>             <span id="t_s"> 秒</span>         </div>     </center>     <script type="text/javascript"> function getRTime() {         var EndTime = new Date('2020/01/1 00:00:00');         var NowTime = new Date();         var t = EndTime.getTime() - NowTime.getTime();         var d = Math.floor(t / 1000 / 60 / 60 / 24);         var h = Math.floor(t / 1000 / 60 / 60 % 24);         var m = Math.floor(t / 1000 / 60 % 60);         var s = Math.floor(t / 1000 % 60);         document.getElementById("t_d").innerHTML = d + " 天";         document.getElementById("t_h").innerHTML = h + " 时";         document.getElementById("t_m").innerHTML = m + " 分";         document.getElementById("t_s").innerHTML = s + " 秒";     }     setInterval(getRTime, 1000);     </script> </div><h2 id="新的一年即将来临唉2019年都是遗憾也没留下啥深刻的回忆-跟2018年没差多少强点把-好在我在月底顿悟了一丢丢img-srchttpq2g97nluhbktclouddncomheiheijfif-width-60-height-60-div-aligncenter-嘿嘿2020年是一个新的开始元旦快要来了-但这次的元旦晚会估计跟我无缘喽"><a class="markdownIt-Anchor" href="#新的一年即将来临唉2019年都是遗憾也没留下啥深刻的回忆-跟2018年没差多少强点把-好在我在月底顿悟了一丢丢img-srchttpq2g97nluhbktclouddncomheiheijfif-width-60-height-60-div-aligncenter-嘿嘿2020年是一个新的开始元旦快要来了-但这次的元旦晚会估计跟我无缘喽"></a>     新的一年即将来临，唉2019年都是遗憾，也没留下啥深刻的回忆。跟2018年没差，多少强点把。好在我在月底顿悟了一丢丢<img width="60" height="60" div align="center" data-src="http://q2g97nluh.bkt.clouddn.com/heihei.jfif" class="lazyload">（嘿嘿），2020年是一个新的开始，元旦快要来了。但这次的元旦晚会估计跟我无缘喽…</h2>]]></content>
       
       
       <categories>
           
-          <category> 测试 </category>
+          <category> 2020年 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 测试 </tag>
+            <tag> 最后倒计时 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>网站正式运行</title>
+      <link href="/2019/12/20/%E7%BD%91%E7%AB%99%E6%AD%A3%E5%BC%8F%E8%BF%90%E8%A1%8C/"/>
+      <url>/2019/12/20/%E7%BD%91%E7%AB%99%E6%AD%A3%E5%BC%8F%E8%BF%90%E8%A1%8C/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>【2019年12月20日】<br>今天开始，网站正式运行了。2020年就要到来了，我会在2020年尝试改变自己，曾经的我一直浑浑噩噩的<a href="https://mp.weixin.qq.com/s?__biz=MzI5MDIwMDQxOQ==&amp;mid=2247484430&amp;idx=1&amp;sn=8a10dccb9ae5495ab66c74883f389ec9&amp;chksm=ec22ca02db554314fb6db00463cc251126591ee3a36c5c8f163e729ba19f30d262db47e1fb53&amp;scene=21#wechat_redirect" target="_blank" rel="noopener">熬日</a>（这是一位用灵魂控制肉体的女生，感谢黛西教给我很多的道理。）小学、初中高一，一直都平平凡凡，现在回头看看感觉浪费了大把的时间和精力，同时也养成了很多的恶习。如今重要的事情基本忙完，虽然说还会有一个新的开始，但这中间一段时间足够我改变许多了。搭建这个网站的目的很简单，就是想找一个记录自己的地方，网站也不需要很多人看见，当然了，来了就是缘分嘛。</p><p>首先明确一下自己的目标</p><ul><li>先想法子法python搞完</li><li>锻炼身体，提高免疫力</li><li>调整规律的作息时间</li><li>搞一下自己的穿着打扮</li></ul><p>……后续的想起来再加吧。</p><p>最后装个逼，嘻嘻</p><p><strong>令她反感的，远不是世界的丑陋，而是世界所戴的漂亮面具。<br>                         ——米兰·昆德拉《生命不能承受之轻》</strong></p><p><img alt data-src="http://q2g97nluh.bkt.clouddn.com/12.jpg" class="lazyload"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 2019年 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 初来乍到，多多关照。 </tag>
             
         </tags>
       
